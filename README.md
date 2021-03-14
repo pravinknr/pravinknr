@@ -1,7 +1,7 @@
 ### Hi there, I am Pravin Konar 👋
 
 
-- 🔭 I’m currently working on a Project based Machine Learning.
+- 🔭 I’m currently working on a Project based on Machine Learning.
 - 🌱 I’m currently learning Deep Learning and Neural Networks.
 - 👯 I’m looking to collaborate on Data Science or Machine Learning Projects.
 - 🤔 I’m looking for help with Job opportunities For Fresher.
