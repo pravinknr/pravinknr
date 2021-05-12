@@ -1,8 +1,7 @@
 ### Hi there, I am Pravin Konar 👋
 
 
-- 🔭 I’m currently working on a Project based on Machine Learning.
-- 🌱 I’m currently learning Django Web Framework Using Python.
+- 🌱 I’m currently learning OpenCV Using Python.
 - 👯 I’m looking to collaborate on Data Science or Machine Learning Projects.
 - 🤔 I’m looking for help with Job opportunities For Fresher.
 - 💬 Ask me Anything about Data Science and I will Surely try to Help You.!
